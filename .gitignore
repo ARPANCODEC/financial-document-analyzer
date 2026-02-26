@@ -1,0 +1,10 @@
+.env
+analysis.db
+
+__pycache__/
+
+data/
+outputs/
+
+*.pyc
+*.log
